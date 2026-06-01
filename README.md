@@ -32,15 +32,15 @@ Composite indexing
 · EXPLAIN ANALYZE optimization
 
 ## Power BI Features
-3-page dark theme dashboard · Live PostgreSQL connection ·
+3-page  dashboard · Live PostgreSQL connection ·
 DAX measures (CALCULATE, SUMX, SWITCH, DIVIDE) ·
 What-If parameter · Dynamic KPI selector ·
 Drill-through navigation · Conditional formatting ·
 Scatter plot · Engagement score analysis
 
 ## Dashboard Pages
-Page 1 — Executive Overview: Company-wide KPIs and trends
-Page 2 — Employee Risk Analysis: Scatter, What-If simulator,
-          High-risk employee table
-Page 3 — Department Detail: Drill-through from Page 1,
+- Page 1 —  Executive Overview: Company-wide KPIs and trends
+- Page 2 —  Employee Risk Analysis: Scatter, What-If simulator,
+           High-risk employee table
+- Page 3 —  Department Detail: Drill-through from Page 1,
           dept-specific attrition, age, salary analysis
