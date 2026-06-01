@@ -24,10 +24,12 @@ PostgreSQL 18 · Power BI Desktop · DAX · PL/pgSQL
 - 20% attrition reduction saves $1.36M in replacement costs
 
 ## SQL Concepts Used
-Normalized schema design · Attrition rate calculations ·
-Window functions (DENSE_RANK, PARTITION BY) ·
-Stored procedures with RECORD loops ·
-Composite indexing · EXPLAIN ANALYZE optimization
+Normalized schema design 
+· Attrition rate calculations.
+**Window functions (DENSE_RANK, PARTITION BY).
+Stored procedures with RECORD loops.
+Composite indexing 
+· EXPLAIN ANALYZE optimization
 
 ## Power BI Features
 3-page dark theme dashboard · Live PostgreSQL connection ·
